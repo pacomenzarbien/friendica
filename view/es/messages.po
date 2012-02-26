@@ -24,15 +24,15 @@ msgstr ""
 
 #: ../../index.php:213 ../../mod/help.php:38
 msgid "Not Found"
-msgstr "No se ha encontrado"
+msgstr "No s'ha trobat"
 
 #: ../../index.php:216 ../../mod/help.php:41
 msgid "Page not found."
-msgstr "Página no encontrada."
+msgstr "Pà́gina no trobada."
 
 #: ../../index.php:279 ../../mod/profperm.php:19 ../../mod/group.php:67
 msgid "Permission denied"
-msgstr "Permiso denegado"
+msgstr "Permís denegat"
 
 #: ../../index.php:280 ../../mod/manage.php:75 ../../mod/wall_upload.php:42
 #: ../../mod/follow.php:8 ../../mod/profile_photo.php:19
@@ -53,11 +53,11 @@ msgstr "Permiso denegado"
 #: ../../mod/group.php:19 ../../mod/attach.php:33 ../../mod/common.php:9
 #: ../../addon/facebook/facebook.php:331 ../../include/items.php:2874
 msgid "Permission denied."
-msgstr "Permiso denegado."
+msgstr "Permís denegat."
 
 #: ../../boot.php:419
 msgid "Delete this item?"
-msgstr "¿Eliminar este elemento?"
+msgstr "Esborrar aquest element?"
 
 #: ../../boot.php:420 ../../mod/photos.php:1202 ../../mod/photos.php:1241
 #: ../../mod/photos.php:1272 ../../include/conversation.php:433
@@ -66,28 +66,28 @@ msgstr "Comentar"
 
 #: ../../boot.php:662
 msgid "Create a New Account"
-msgstr "Crear una nueva cuenta"
+msgstr "Crear un nou compte"
 
 #: ../../boot.php:663 ../../mod/register.php:530 ../../include/nav.php:77
 msgid "Register"
-msgstr "Registrarse"
+msgstr "Registrar-se"
 
 #: ../../boot.php:679 ../../include/nav.php:44
 msgid "Logout"
-msgstr "Salir"
+msgstr "Sortir"
 
 #: ../../boot.php:680 ../../addon/communityhome/communityhome.php:28
 #: ../../addon/communityhome/communityhome.php:34 ../../include/nav.php:62
 msgid "Login"
-msgstr "Acceder"
+msgstr "Accedir"
 
 #: ../../boot.php:682
 msgid "Nickname or Email address: "
-msgstr "Apodo o dirección de email: "
+msgstr "Malnom o direcció d'email: "
 
 #: ../../boot.php:683
 msgid "Password: "
-msgstr "Contraseña: "
+msgstr "Contrasenya: "
 
 #: ../../boot.php:686
 msgid "OpenID: "
@@ -95,15 +95,15 @@ msgstr "OpenID:"
 
 #: ../../boot.php:692
 msgid "Forgot your password?"
-msgstr "¿Olvidó la contraseña?"
+msgstr "Ovlidà la contrasenya?"
 
 #: ../../boot.php:693 ../../mod/lostpass.php:82
 msgid "Password Reset"
-msgstr "Restablecer la contraseña"
+msgstr "Restablir la contrasenya"
 
 #: ../../boot.php:815 ../../mod/profile.php:10 ../../mod/hcard.php:10
 msgid "No profile"
-msgstr "Nigún perfil"
+msgstr "Cap perfil"
 
 #: ../../boot.php:839
 msgid "Edit profile"
@@ -111,15 +111,15 @@ msgstr "Editar perfil"
 
 #: ../../boot.php:890 ../../include/contact_widgets.php:9
 msgid "Connect"
-msgstr "Conectar"
+msgstr "Connectar"
 
 #: ../../boot.php:900 ../../include/nav.php:129
 msgid "Profiles"
-msgstr "Perfiles"
+msgstr "Perfils"
 
 #: ../../boot.php:900 ../../include/nav.php:129
 msgid "Manage/edit profiles"
-msgstr "Administrar/editar perfiles"
+msgstr "Administrar/editar perfils"
 
 #: ../../boot.php:906 ../../mod/profiles.php:462
 msgid "Change profile photo"
@@ -127,36 +127,36 @@ msgstr "Cambiar foto del perfil"
 
 #: ../../boot.php:907 ../../mod/profiles.php:463
 msgid "Create New Profile"
-msgstr "Crear nuevo perfil"
+msgstr "Crear nou perfil"
 
 #: ../../boot.php:917 ../../mod/profiles.php:473
 msgid "Profile Image"
-msgstr "Imagen del Perfil"
+msgstr "Imatge del Perfil"
 
 #: ../../boot.php:920 ../../mod/profiles.php:475
 msgid "visible to everybody"
-msgstr "Visible para todos"
+msgstr "Visible per a tots"
 
 #: ../../boot.php:921 ../../mod/profiles.php:476
 msgid "Edit visibility"
-msgstr "Editar visibilidad"
+msgstr "Editar visibilitat"
 
 #: ../../boot.php:940 ../../mod/events.php:325 ../../include/event.php:37
 #: ../../include/bb2diaspora.php:249
 msgid "Location:"
-msgstr "Localización:"
+msgstr "Localizació:"
 
 #: ../../boot.php:942 ../../include/profile_advanced.php:17
 msgid "Gender:"
-msgstr "Género:"
+msgstr "Gènere:"
 
 #: ../../boot.php:945 ../../include/profile_advanced.php:37
 msgid "Status:"
-msgstr "Estado:"
+msgstr "Estat:"
 
 #: ../../boot.php:947 ../../include/profile_advanced.php:45
 msgid "Homepage:"
-msgstr "Página de inicio:"
+msgstr "Pàgina d'inici:"
 
 #: ../../boot.php:1006 ../../boot.php:1068
 msgid "g A l F d"
@@ -168,31 +168,31 @@ msgstr "F d"
 
 #: ../../boot.php:1030
 msgid "Birthday Reminders"
-msgstr "Recordatorios de cumpleaños"
+msgstr "Recordatoris d'aniversaris"
 
 #: ../../boot.php:1031
 msgid "Birthdays this week:"
-msgstr "Cumpleaños esta semana:"
+msgstr "Aniversaris aquesta setmana:"
 
 #: ../../boot.php:1047 ../../boot.php:1111
 msgid "[today]"
-msgstr "[hoy]"
+msgstr "[avui]"
 
 #: ../../boot.php:1092
 msgid "Event Reminders"
-msgstr "Recordatorios de eventos"
+msgstr "Recordatoris d'events"
 
 #: ../../boot.php:1093
 msgid "Events this week:"
-msgstr "Eventos de esta semana:"
+msgstr "Events de aquesta setmana:"
 
 #: ../../boot.php:1105
 msgid "[No description]"
-msgstr "[Sin descripción]"
+msgstr "[Sense descripció]"
 
 #: ../../boot.php:1282 ../../include/nav.php:47
 msgid "Status"
-msgstr "Estado"
+msgstr "Estat"
 
 #: ../../boot.php:1287 ../../mod/profperm.php:103
 #: ../../include/profile_advanced.php:7 ../../include/profile_advanced.php:74
@@ -202,36 +202,36 @@ msgstr "Perfil"
 
 #: ../../boot.php:1292 ../../include/nav.php:49
 msgid "Photos"
-msgstr "Fotografías"
+msgstr "Fotografíes"
 
 #: ../../boot.php:1300 ../../mod/events.php:117 ../../include/nav.php:50
 msgid "Events"
-msgstr "Eventos"
+msgstr "Events"
 
 #: ../../boot.php:1305 ../../mod/notes.php:44
 msgid "Personal Notes"
-msgstr "Notas personales"
+msgstr "Notes personals"
 
 #: ../../mod/manage.php:37
 #, php-format
 msgid "Welcome back %s"
-msgstr "Bienvenido de nuevo %s"
+msgstr "Bienvingut de nou %s"
 
 #: ../../mod/manage.php:87
 msgid "Manage Identities and/or Pages"
-msgstr "Administrar identidades y/o páginas"
+msgstr "Administrar identitas i/o pàgines"
 
 #: ../../mod/manage.php:90
 msgid ""
 "(Toggle between different identities or community/group pages which share "
 "your account details.)"
 msgstr ""
-"(Alternar entre las diferentes identidades o las páginas de "
-"comunidades/grupos que comparten los datos de su cuenta)."
+"(Alternar entre les diferents identitas o les pàginas de "
+"comunitats/grups que comparteixen les dades del seu compte)."
 
 #: ../../mod/manage.php:92
 msgid "Select an identity to manage: "
-msgstr "Selecciona una identidad a gestionar:"
+msgstr "Selecciona una identitat a gestionar:"
 
 #: ../../mod/manage.php:106 ../../mod/profiles.php:375
 #: ../../mod/settings.php:420 ../../mod/settings.php:559
@@ -258,73 +258,73 @@ msgstr "Selecciona una identidad a gestionar:"
 #: ../../addon/randplace/randplace.php:178 ../../addon/piwik/piwik.php:81
 #: ../../addon/wppost/wppost.php:101 ../../include/conversation.php:434
 msgid "Submit"
-msgstr "Envía"
+msgstr "Envia"
 
 #: ../../mod/dirfind.php:23
 msgid "People Search"
-msgstr "Buscar personas"
+msgstr "Buscar persones"
 
 #: ../../mod/dirfind.php:57 ../../mod/match.php:57
 msgid "No matches"
-msgstr "Sin conincidencias"
+msgstr "Sense conincidencies"
 
 #: ../../mod/wall_upload.php:56 ../../mod/profile_photo.php:113
 #, php-format
 msgid "Image exceeds size limit of %d"
-msgstr "El tamaño de la imagen supera el límite de %d"
+msgstr "La mida de la imatge supera el límit de %d"
 
 #: ../../mod/wall_upload.php:65 ../../mod/profile_photo.php:122
 #: ../../mod/photos.php:647
 msgid "Unable to process image."
-msgstr "Imposible procesar la imagen."
+msgstr "Impossible processar la imatge."
 
 #: ../../mod/wall_upload.php:81 ../../mod/wall_upload.php:90
 #: ../../mod/wall_upload.php:97 ../../mod/item.php:299
 #: ../../include/message.php:82
 msgid "Wall Photos"
-msgstr "Foto del Muro"
+msgstr "Foto del Mur"
 
 #: ../../mod/wall_upload.php:84 ../../mod/profile_photo.php:251
 #: ../../mod/photos.php:667
 msgid "Image upload failed."
-msgstr "Error al subir la imagen."
+msgstr "Error al pujar la imatge."
 
 #: ../../mod/profile.php:105 ../../mod/display.php:66
 msgid "Access to this profile has been restricted."
-msgstr "EL acceso a este perfil ha sido restringido."
+msgstr "L'accés a aquest perfil ha estat restringit."
 
 #: ../../mod/profile.php:127
 msgid "Tips for New Members"
-msgstr "Consejos para nuevos miembros"
+msgstr "Consells per a nous membres"
 
 #: ../../mod/follow.php:20 ../../mod/dfrn_request.php:340
 msgid "Disallowed profile URL."
-msgstr "Dirección de perfil no permitida."
+msgstr "Direcció de perfil no permesa."
 
 #: ../../mod/follow.php:39
 msgid ""
 "This site is not configured to allow communications with other networks."
 msgstr ""
-"Este sitio no está configurado para permitir la comunicación con otras "
-"redes."
+"Aquest lloc no està configurat per a permetre la comunicació amb altres "
+"xarxes."
 
 #: ../../mod/follow.php:40 ../../mod/follow.php:50
 msgid "No compatible communication protocols or feeds were discovered."
 msgstr ""
-"No se ha descubierto protocolos de comunicación o fuentes compatibles."
+"No s'han descobert protocols de comunicació o fonts compatibles."
 
 #: ../../mod/follow.php:48
 msgid "The profile address specified does not provide adequate information."
 msgstr ""
-"La dirección del perfil especificado no proporciona información adecuada."
+"L'adreça del perfil especificat no proporciona informació adient."
 
 #: ../../mod/follow.php:52
 msgid "An author or name was not found."
-msgstr "No se ha encontrado un autor o nombre"
+msgstr "No s'ha trobat un autor o nom"
 
 #: ../../mod/follow.php:54
 msgid "No browser URL could be matched to this address."
-msgstr "Ninguna dirección URL concuerda con la suministrada."
+msgstr "Cap adreça URL concorda amb la subministrada."
 
 #: ../../mod/follow.php:61
 msgid ""
