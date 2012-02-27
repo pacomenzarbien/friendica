@@ -95,7 +95,7 @@ msgstr "OpenID:"
 
 #: ../../boot.php:692
 msgid "Forgot your password?"
-msgstr "Ovlidà la contrasenya?"
+msgstr "Oblidà la contrasenya?"
 
 #: ../../boot.php:693 ../../mod/lostpass.php:82
 msgid "Password Reset"
@@ -127,7 +127,7 @@ msgstr "Cambiar foto del perfil"
 
 #: ../../boot.php:907 ../../mod/profiles.php:463
 msgid "Create New Profile"
-msgstr "Crear nou perfil"
+msgstr "Crear Nou Perfil"
 
 #: ../../boot.php:917 ../../mod/profiles.php:473
 msgid "Profile Image"
@@ -184,7 +184,7 @@ msgstr "Recordatoris d'events"
 
 #: ../../boot.php:1093
 msgid "Events this week:"
-msgstr "Events de aquesta setmana:"
+msgstr "Events d'aquesta setmana:"
 
 #: ../../boot.php:1105
 msgid "[No description]"
@@ -219,14 +219,14 @@ msgstr "Bienvingut de nou %s"
 
 #: ../../mod/manage.php:87
 msgid "Manage Identities and/or Pages"
-msgstr "Administrar identitas i/o pàgines"
+msgstr "Administrar identitats i/o pàgines"
 
 #: ../../mod/manage.php:90
 msgid ""
 "(Toggle between different identities or community/group pages which share "
 "your account details.)"
 msgstr ""
-"(Alternar entre les diferents identitas o les pàginas de "
+"(Alternar entre les diferents identitats o les pàginas de "
 "comunitats/grups que comparteixen les dades del seu compte)."
 
 #: ../../mod/manage.php:92
@@ -266,7 +266,7 @@ msgstr "Buscar persones"
 
 #: ../../mod/dirfind.php:57 ../../mod/match.php:57
 msgid "No matches"
-msgstr "Sense conincidencies"
+msgstr "Sense coincidències"
 
 #: ../../mod/wall_upload.php:56 ../../mod/profile_photo.php:113
 #, php-format
@@ -299,7 +299,7 @@ msgstr "Consells per a nous membres"
 
 #: ../../mod/follow.php:20 ../../mod/dfrn_request.php:340
 msgid "Disallowed profile URL."
-msgstr "Direcció de perfil no permesa."
+msgstr "Adreça de perfil no permesa."
 
 #: ../../mod/follow.php:39
 msgid ""
@@ -331,28 +331,28 @@ msgid ""
 "The profile address specified belongs to a network which has been disabled "
 "on this site."
 msgstr ""
-"La dirección del perfil especificada pertenece a una red que ha sido "
-"deshabilitada en este sitio."
+"L'adreça del perfil especificada pertany a una xarxa que ha estat "
+"deshabilitada en aquest lloc."
 
 #: ../../mod/follow.php:66
 msgid ""
 "Limited profile. This person will be unable to receive direct/personal "
 "notifications from you."
 msgstr ""
-"Perfil limitado. Esta persona no podrá recibir notificaciones "
-"directas/personales de ti."
+"Perfil limitat. Aquesta persona no podrà rebre notificacions "
+"directes/personals de tu."
 
 #: ../../mod/follow.php:133
 msgid "Unable to retrieve contact information."
-msgstr "No ha sido posible recibir la información del contacto."
+msgstr "No ha estat possible rebre l'informació del contacte."
 
 #: ../../mod/follow.php:179
 msgid "following"
-msgstr "siguiendo"
+msgstr "seguint"
 
 #: ../../mod/profile_photo.php:28
 msgid "Image uploaded but image cropping failed."
-msgstr "Imagen recibida, pero ha fallado al recortarla."
+msgstr "Imatge rebuda, però ha fracassat en retallar-la."
 
 #: ../../mod/profile_photo.php:58 ../../mod/profile_photo.php:65
 #: ../../mod/profile_photo.php:72 ../../mod/profile_photo.php:170
@@ -362,37 +362,37 @@ msgstr "Imagen recibida, pero ha fallado al recortarla."
 #: ../../mod/register.php:325 ../../mod/register.php:332
 #: ../../addon/communityhome/communityhome.php:111
 msgid "Profile Photos"
-msgstr "Foto del perfil"
+msgstr "Foto del Perfil"
 
 #: ../../mod/profile_photo.php:61 ../../mod/profile_photo.php:68
 #: ../../mod/profile_photo.php:75 ../../mod/profile_photo.php:258
 #, php-format
 msgid "Image size reduction [%s] failed."
-msgstr "Ha fallado la reducción de las dimensiones de la imagen [%s]."
+msgstr "Ha fracassat la reducció de les dimensions de la imatge [%s]."
 
 #: ../../mod/profile_photo.php:89
 msgid ""
 "Shift-reload the page or clear browser cache if the new photo does not "
 "display immediately."
 msgstr ""
-"Recargue la página o limpie la caché del navegador si la nueva foto no "
-"aparece inmediatamente."
+"Recarrega la pàgina o neteja el caché del navegador si la nova foto no "
+"apareix immediatament."
 
 #: ../../mod/profile_photo.php:99
 msgid "Unable to process image"
-msgstr "Imposible procesar la imagen"
+msgstr "Impossible processar la imatge"
 
 #: ../../mod/profile_photo.php:203
 msgid "Upload File:"
-msgstr "Subir archivo:"
+msgstr "Pujar Arxiu:"
 
 #: ../../mod/profile_photo.php:204
 msgid "Upload Profile Photo"
-msgstr "Subir foto del Perfil"
+msgstr "Pujar Foto del Perfil"
 
 #: ../../mod/profile_photo.php:205
 msgid "Upload"
-msgstr "Subir"
+msgstr "Pujar"
 
 #: ../../mod/profile_photo.php:206 ../../mod/settings.php:686
 msgid "or"
@@ -400,66 +400,66 @@ msgstr "o"
 
 #: ../../mod/profile_photo.php:206
 msgid "skip this step"
-msgstr "salta este paso"
+msgstr "salta aquest pas"
 
 #: ../../mod/profile_photo.php:206
 msgid "select a photo from your photo albums"
-msgstr "elige una foto de tus álbumes"
+msgstr "tria una foto dels seus àlbums de fotos"
 
 #: ../../mod/profile_photo.php:219
 msgid "Crop Image"
-msgstr "Recortar imagen"
+msgstr "Retallar imatge"
 
 #: ../../mod/profile_photo.php:220
 msgid "Please adjust the image cropping for optimum viewing."
-msgstr "Por favor, ajusta el recorte de la imagen para optimizarla."
+msgstr "Si us plau, ajusta la retallada d'imatges per a una visualització òptima."
 
 #: ../../mod/profile_photo.php:221
 msgid "Done Editing"
-msgstr "Editado"
+msgstr "Editat"
 
 #: ../../mod/profile_photo.php:249
 msgid "Image uploaded successfully."
-msgstr "Imagen subida con éxito."
+msgstr "Imatge rebuda amb éxit."
 
 #: ../../mod/home.php:23 ../../addon/communityhome/communityhome.php:179
 #, php-format
 msgid "Welcome to %s"
-msgstr "Bienvenido a %s"
+msgstr "Benvingut a %s"
 
 #: ../../mod/update_community.php:18 ../../mod/update_network.php:22
 #: ../../mod/update_profile.php:41 ../../mod/update_notes.php:41
 msgid "[Embedded content - reload page to view]"
-msgstr "[Contenido incrustado - recarga la página para verlo]"
+msgstr "[Contingut incrustat - recarrega la pàgina per a veure-la]"
 
 #: ../../mod/wall_attach.php:57
 #, php-format
 msgid "File exceeds size limit of %d"
-msgstr "El tamaño del archivo excede el límite de %d"
+msgstr "La mida de l'arxiu excedeix el límit de %d"
 
 #: ../../mod/wall_attach.php:87 ../../mod/wall_attach.php:98
 msgid "File upload failed."
-msgstr "Ha fallado la subida del archivo."
+msgstr "La càrrrega dels fitxers ha fracassat."
 
 #: ../../mod/suggest.php:36 ../../include/contact_widgets.php:35
 msgid "Friend Suggestions"
-msgstr "Sugerencias de amigos"
+msgstr "Suggeriments d'Amic"
 
 #: ../../mod/suggest.php:42
 msgid ""
 "No suggestions. This works best when you have more than one contact/friend."
 msgstr ""
-"No hay sugerencias. Esto funciona mejor cuando tienes más de un "
-"contacto/amigo."
+"No hi ha suggeriments. Això funciona millor quan tens més d'un "
+"contacte/amic."
 
 #: ../../mod/suggest.php:55
 msgid "Ignore/Hide"
-msgstr "Ignorar/Ocultar"
+msgstr "Ignorar/Amagar"
 
 #: ../../mod/regmod.php:52 ../../mod/register.php:369
 #, php-format
 msgid "Registration details for %s"
-msgstr "Detalles de registro para %s"
+msgstr "Detalls de registre per a %s"
 
 #: ../../mod/regmod.php:54 ../../mod/register.php:371
 #: ../../mod/register.php:425 ../../mod/dfrn_request.php:553
@@ -471,33 +471,33 @@ msgstr "Administrador"
 
 #: ../../mod/regmod.php:61
 msgid "Account approved."
-msgstr "Cuenta aprobada."
+msgstr "Compte aprobat."
 
 #: ../../mod/regmod.php:93
 #, php-format
 msgid "Registration revoked for %s"
-msgstr "Registro anulado para %s"
+msgstr "Registre anul·lado per a %s"
 
 #: ../../mod/regmod.php:105
 msgid "Please login."
-msgstr "Por favor accede."
+msgstr "Si et plau, identificat."
 
 #: ../../mod/profiles.php:21 ../../mod/profiles.php:239
 #: ../../mod/profiles.php:344 ../../mod/dfrn_confirm.php:62
 msgid "Profile not found."
-msgstr "Perfil no encontrado."
+msgstr "Perfil no trobat."
 
 #: ../../mod/profiles.php:28
 msgid "Profile Name is required."
-msgstr "Se necesita un nombre de perfil."
+msgstr "Es necessita un Nom de perfil."
 
 #: ../../mod/profiles.php:198
 msgid "Profile updated."
-msgstr "Perfil actualizado."
+msgstr "Perfil actualitzat."
 
 #: ../../mod/profiles.php:256
 msgid "Profile deleted."
-msgstr "Perfil eliminado."
+msgstr "Perfil eliminat."
 
 #: ../../mod/profiles.php:272 ../../mod/profiles.php:303
 msgid "Profile-"
@@ -505,15 +505,15 @@ msgstr "Perfil-"
 
 #: ../../mod/profiles.php:291 ../../mod/profiles.php:330
 msgid "New profile created."
-msgstr "Nuevo perfil creado."
+msgstr "Nou perfil creat."
 
 #: ../../mod/profiles.php:309
 msgid "Profile unavailable to clone."
-msgstr "Imposible duplicar el perfil."
+msgstr "Impossible duplicar el perfil."
 
 #: ../../mod/profiles.php:356
 msgid "Hide your contact/friend list from viewers of this profile?"
-msgstr "¿Ocultar tu lista de contactos/amigos en este perfil?"
+msgstr "Amaga el teu contacte/llista d'amics dels espectadors d'aquest perfil?"
 
 #: ../../mod/profiles.php:357 ../../mod/settings.php:629
 #: ../../mod/settings.php:635 ../../mod/settings.php:643
@@ -533,56 +533,56 @@ msgstr "No"
 
 #: ../../mod/profiles.php:374
 msgid "Edit Profile Details"
-msgstr "Editar detalles de tu perfil"
+msgstr "Editar detalls del teu perfil"
 
 #: ../../mod/profiles.php:376
 msgid "View this profile"
-msgstr "Ver este perfil"
+msgstr "Veure este perfil"
 
 #: ../../mod/profiles.php:377
 msgid "Create a new profile using these settings"
-msgstr "¿Crear un nuevo perfil con esta configuración?"
+msgstr "Crear un nou perfil amb aquesta configuració?"
 
 #: ../../mod/profiles.php:378
 msgid "Clone this profile"
-msgstr "Clonar este perfil"
+msgstr "Clonar aquest perfil"
 
 #: ../../mod/profiles.php:379
 msgid "Delete this profile"
-msgstr "Eliminar este perfil"
+msgstr "Eliminar aquest perfil"
 
 #: ../../mod/profiles.php:380
 msgid "Profile Name:"
-msgstr "Nombres del perfil:"
+msgstr "Nom del perfil:"
 
 #: ../../mod/profiles.php:381
 msgid "Your Full Name:"
-msgstr "Tu nombre completo:"
+msgstr "El Teu Nom Complert:"
 
 #: ../../mod/profiles.php:382
 msgid "Title/Description:"
-msgstr "Título/Descrición:"
+msgstr "Títol/Descripció:"
 
 #: ../../mod/profiles.php:383
 msgid "Your Gender:"
-msgstr "Género:"
+msgstr "El Teu Gènere:"
 
 #: ../../mod/profiles.php:384
 #, php-format
 msgid "Birthday (%s):"
-msgstr "Cumpleaños (%s):"
+msgstr "Aniversari (%s):"
 
 #: ../../mod/profiles.php:385
 msgid "Street Address:"
-msgstr "Dirección"
+msgstr "Adreça"
 
 #: ../../mod/profiles.php:386
 msgid "Locality/City:"
-msgstr "Localidad/Ciudad:"
+msgstr "Localitat/Ciutat:"
 
 #: ../../mod/profiles.php:387
 msgid "Postal/Zip Code:"
-msgstr "Código postal:"
+msgstr "Codi postal:"
 
 #: ../../mod/profiles.php:388
 msgid "Country:"
@@ -590,83 +590,83 @@ msgstr "País"
 
 #: ../../mod/profiles.php:389
 msgid "Region/State:"
-msgstr "Región/Estado:"
+msgstr "Regió/Estat:"
 
 #: ../../mod/profiles.php:390
 msgid "<span class=\"heart\">&hearts;</span> Marital Status:"
-msgstr "<span class=\"heart\"&hearts;</span> Estado civil:"
+msgstr "<span class=\"heart\"&hearts;</span> Estat civil:"
 
 #: ../../mod/profiles.php:391
 msgid "Who: (if applicable)"
-msgstr "¿Quién? (si es aplicable)"
+msgstr "Qui? (si es aplicable)"
 
 #: ../../mod/profiles.php:392
 msgid "Examples: cathy123, Cathy Williams, cathy@example.com"
-msgstr "Ejemplos: cathy123, Cathy Williams, cathy@example.com"
+msgstr "Exemples: pep123, Pep Català, pep@example.com"
 
 #: ../../mod/profiles.php:393 ../../include/profile_advanced.php:43
 msgid "Sexual Preference:"
-msgstr "Preferencia sexual:"
+msgstr "Prefèrencia sexual:"
 
 #: ../../mod/profiles.php:394
 msgid "Homepage URL:"
-msgstr "Dirección de tu página web:"
+msgstr "Adreça de la teva pàgina web:"
 
 #: ../../mod/profiles.php:395 ../../include/profile_advanced.php:47
 msgid "Political Views:"
-msgstr "Ideas políticas:"
+msgstr "Opinions Polítiques:"
 
 #: ../../mod/profiles.php:396
 msgid "Religious Views:"
-msgstr "Creencias religiosas"
+msgstr "Creences Religioses"
 
 #: ../../mod/profiles.php:397
 msgid "Public Keywords:"
-msgstr "Palabras clave públicas:"
+msgstr "Paraules Clau públiques:"
 
 #: ../../mod/profiles.php:398
 msgid "Private Keywords:"
-msgstr "Palabras clave privadas:"
+msgstr "Paraules Clau Privades:"
 
 #: ../../mod/profiles.php:399
 msgid "Example: fishing photography software"
-msgstr "Ejemplo: pesca fotografía software"
+msgstr "Exemple: pesca fotografía software"
 
 #: ../../mod/profiles.php:400
 msgid "(Used for suggesting potential friends, can be seen by others)"
-msgstr "(Utilizado para sugerir amigos potenciales, otros pueden verlo)"
+msgstr "(S'utilitza per a suggerir possibles amics, pot ser vist per la resta)"
 
 #: ../../mod/profiles.php:401
 msgid "(Used for searching profiles, never shown to others)"
-msgstr "(Utilizado para buscar perfiles, nunca se muestra a otros)"
+msgstr "(S'utilitza per a cercar perfils, mai es mostra als altres)"
 
 #: ../../mod/profiles.php:402
 msgid "Tell us about yourself..."
-msgstr "Háblanos sobre ti..."
+msgstr "Parla'ns sobre tu..."
 
 #: ../../mod/profiles.php:403
 msgid "Hobbies/Interests"
-msgstr "Aficiones/Intereses"
+msgstr "Aficions/Interessos"
 
 #: ../../mod/profiles.php:404
 msgid "Contact information and Social Networks"
-msgstr "Informacioń de contacto y Redes sociales"
+msgstr "Informació de contacte i Xarxes Socials"
 
 #: ../../mod/profiles.php:405
 msgid "Musical interests"
-msgstr "Gustos musicales"
+msgstr "Preferències musicals"
 
 #: ../../mod/profiles.php:406
 msgid "Books, literature"
-msgstr "Libros, literatura"
+msgstr "Llibres, literatura"
 
 #: ../../mod/profiles.php:407
 msgid "Television"
-msgstr "Televisión"
+msgstr "Televisió"
 
 #: ../../mod/profiles.php:408
 msgid "Film/dance/culture/entertainment"
-msgstr "Películas/baile/cultura/entretenimiento"
+msgstr "Cinema/baill/cultura/entreteniment"
 
 #: ../../mod/profiles.php:409
 msgid "Love/romance"
@@ -674,141 +674,141 @@ msgstr "Amor/Romance"
 
 #: ../../mod/profiles.php:410
 msgid "Work/employment"
-msgstr "Trabajo/ocupación"
+msgstr "Traball/ocupació"
 
 #: ../../mod/profiles.php:411
 msgid "School/education"
-msgstr "Escuela/estudios"
+msgstr "Escola/estudis"
 
 #: ../../mod/profiles.php:416
 msgid ""
 "This is your <strong>public</strong> profile.<br />It <strong>may</strong> "
 "be visible to anybody using the internet."
 msgstr ""
-"Éste es tu perfil <strong>público</strong>.<br /><strong>Puede</strong> ser "
-"visto por cualquiera usando internet."
+"Aquest és el teu perfil <strong>públic</strong>.<br /><strong>Pot</strong> ser "
+"vist per cualsevol utilitzant internet."
 
 #: ../../mod/profiles.php:426 ../../mod/directory.php:122
 msgid "Age: "
-msgstr "Edad: "
+msgstr "Edat: "
 
 #: ../../mod/profiles.php:461
 msgid "Edit/Manage Profiles"
-msgstr "Editar/Administrar perfiles"
+msgstr "Editar/Administrar Perfils"
 
 #: ../../mod/notice.php:15 ../../mod/display.php:28 ../../mod/display.php:115
 #: ../../mod/viewsrc.php:15 ../../mod/admin.php:111 ../../mod/admin.php:502
 #: ../../include/items.php:2786
 msgid "Item not found."
-msgstr "Elemento no encontrado."
+msgstr "Element no trobat."
 
 #: ../../mod/settings.php:9 ../../mod/photos.php:62
 msgid "everybody"
-msgstr "todos"
+msgstr "tots"
 
 #: ../../mod/settings.php:67
 msgid "Missing some important data!"
-msgstr "¡Faltan algunos datos importantes!"
+msgstr "Falten algunes dades importants!"
 
 #: ../../mod/settings.php:70 ../../mod/settings.php:446 ../../mod/admin.php:62
 msgid "Update"
-msgstr "Actualizar"
+msgstr "Actualitzar"
 
 #: ../../mod/settings.php:165
 msgid "Failed to connect with email account using the settings provided."
 msgstr ""
-"Error al conectar con la cuenta de correo mediante la configuración "
-"suministrada."
+"Error al connectar amb el compte de correu mitjançant la configuració "
+"subministrada."
 
 #: ../../mod/settings.php:170
 msgid "Email settings updated."
-msgstr "Configuración de correo electrónico actualizada."
+msgstr "Configuració de correu electrónic actualitzada."
 
 #: ../../mod/settings.php:188
 msgid "Passwords do not match. Password unchanged."
-msgstr "Las contraseñas no coinciden. La contraseña no ha sido modificada."
+msgstr "Les contrasenyes no coincideixen. Contrasenya no modificada."
 
 #: ../../mod/settings.php:193
 msgid "Empty passwords are not allowed. Password unchanged."
 msgstr ""
-"No se permiten contraseñas vacías. La contraseña no ha sido modificada."
+"No es permeten contrasenyes buides. Contrasenya no modificada."
 
 #: ../../mod/settings.php:204
 msgid "Password changed."
-msgstr "Contraseña modificada."
+msgstr "Contrasenya modificada."
 
 #: ../../mod/settings.php:206
 msgid "Password update failed. Please try again."
 msgstr ""
-"La actualización de la contraseña ha fallado. Por favor, prueba otra vez."
+"L'actualització de la contrasenya ha fracassat. Si us plau, proveu una altra volta."
 
 #: ../../mod/settings.php:253
 msgid " Please use a shorter name."
-msgstr " Usa un nombre más corto."
+msgstr " Empreu un nom més curt."
 
 #: ../../mod/settings.php:255
 msgid " Name too short."
-msgstr " Nombre demasiado corto."
+msgstr " Nom massa curt."
 
 #: ../../mod/settings.php:261
 msgid " Not valid email."
-msgstr " Correo no válido."
+msgstr " Correu no vàlid."
 
 #: ../../mod/settings.php:263
 msgid " Cannot change to that email."
-msgstr " No se puede usar ese correo."
+msgstr " No es pot emprar aquest correu."
 
 #: ../../mod/settings.php:323 ../../addon/twitter/twitter.php:294
 #: ../../addon/impressum/impressum.php:64
 #: ../../addon/facebook/facebook.php:320 ../../addon/piwik/piwik.php:94
 msgid "Settings updated."
-msgstr "Configuración actualizada."
+msgstr "Configuració actualitzada."
 
 #: ../../mod/settings.php:382 ../../include/nav.php:128
 msgid "Account settings"
-msgstr "Configuración de tu cuenta"
+msgstr "Configuració del teu compte"
 
 #: ../../mod/settings.php:387
 msgid "Connector settings"
-msgstr "Configuración del conector"
+msgstr "Configuració del connector"
 
 #: ../../mod/settings.php:392
 msgid "Plugin settings"
-msgstr "Configuración de los módulos"
+msgstr "Configuració dels mòduls"
 
 #: ../../mod/settings.php:397
 msgid "Connections"
-msgstr "Conexiones"
+msgstr "Connexions"
 
 #: ../../mod/settings.php:402
 msgid "Export personal data"
-msgstr "Exportación de datos personales"
+msgstr "Exportació de dades personals"
 
 #: ../../mod/settings.php:419 ../../mod/settings.php:445
 #: ../../mod/settings.php:478
 msgid "Add application"
-msgstr "Agregar aplicación"
+msgstr "Afegeix aplicació"
 
 #: ../../mod/settings.php:421 ../../mod/settings.php:447
 #: ../../mod/dfrn_request.php:655 ../../mod/tagrm.php:11
 #: ../../mod/tagrm.php:94 ../../addon/js_upload/js_upload.php:45
 msgid "Cancel"
-msgstr "Cancelar"
+msgstr "Cancel·lar"
 
 #: ../../mod/settings.php:422 ../../mod/settings.php:448
 #: ../../mod/crepair.php:144 ../../mod/admin.php:464 ../../mod/admin.php:473
 msgid "Name"
-msgstr "Nombre"
+msgstr "Nom"
 
 #: ../../mod/settings.php:423 ../../mod/settings.php:449
 #: ../../addon/statusnet/statusnet.php:480
 msgid "Consumer Key"
-msgstr "Clave consumer"
+msgstr "Clau Consumer"
 
 #: ../../mod/settings.php:424 ../../mod/settings.php:450
 #: ../../addon/statusnet/statusnet.php:479
 msgid "Consumer Secret"
-msgstr "Secreto consumer"
+msgstr "Secret Consumer"
 
 #: ../../mod/settings.php:425 ../../mod/settings.php:451
 msgid "Redirect"
@@ -816,15 +816,15 @@ msgstr "Redirigir"
 
 #: ../../mod/settings.php:426 ../../mod/settings.php:452
 msgid "Icon url"
-msgstr "Dirección URL del ícono"
+msgstr "Adreça URL de la icona"
 
 #: ../../mod/settings.php:437
 msgid "You can't edit this application."
-msgstr "No puedes editar esta aplicación."
+msgstr "No pots editar aquesta aplicació."
 
 #: ../../mod/settings.php:477
 msgid "Connected Apps"
-msgstr "Aplicaciones conectadas"
+msgstr "Aplicacions connectades"
 
 #: ../../mod/settings.php:479 ../../mod/editpost.php:90
 #: ../../include/conversation.php:441 ../../include/group.php:190
@@ -835,32 +835,32 @@ msgstr "Editar"
 #: ../../mod/admin.php:468 ../../mod/group.php:154
 #: ../../include/conversation.php:211 ../../include/conversation.php:454
 msgid "Delete"
-msgstr "Eliminar"
+msgstr "Esborrar"
 
 #: ../../mod/settings.php:481
 msgid "Client key starts with"
-msgstr "Clave de cliente comienza con"
+msgstr "Clau de client comença amb"
 
 #: ../../mod/settings.php:482
 msgid "No name"
-msgstr "Sin nombre"
+msgstr "Sense nom"
 
 #: ../../mod/settings.php:483
 msgid "Remove authorization"
-msgstr "Suprimir la autorización"
+msgstr "Retirar l'autorizació"
 
 #: ../../mod/settings.php:495
 msgid "No Plugin settings configured"
-msgstr "Ningún módulo ha sido configurado"
+msgstr "Cap mòdul configurat"
 
 #: ../../mod/settings.php:502 ../../addon/widgets/widgets.php:122
 msgid "Plugin Settings"
-msgstr "Configuración de los módulos"
+msgstr "Configuració dels mòduls"
 
 #: ../../mod/settings.php:515 ../../mod/settings.php:516
 #, php-format
 msgid "Built-in support for %s connectivity is %s"
-msgstr "El soporte integrado para %s conexión es %s"
+msgstr "El suport integrat per a %s conexió es %s"
 
 #: ../../mod/settings.php:515 ../../mod/dfrn_request.php:651
 #: ../../include/contact_selectors.php:78
@@ -869,11 +869,11 @@ msgstr "Diaspora"
 
 #: ../../mod/settings.php:515 ../../mod/settings.php:516
 msgid "enabled"
-msgstr "habilitado"
+msgstr "habilitat"
 
 #: ../../mod/settings.php:515 ../../mod/settings.php:516
 msgid "disabled"
-msgstr "deshabilitado"
+msgstr "deshabilitat"
 
 #: ../../mod/settings.php:516
 msgid "StatusNet"
@@ -881,81 +881,81 @@ msgstr "StatusNet"
 
 #: ../../mod/settings.php:542
 msgid "Connector Settings"
-msgstr "Configuración del conector"
+msgstr "Configuració del connector"
 
 #: ../../mod/settings.php:548
 msgid "Email/Mailbox Setup"
-msgstr "Configuración del correo/buzón"
+msgstr "Configuració del correou/bustia"
 
 #: ../../mod/settings.php:549
 msgid ""
 "If you wish to communicate with email contacts using this service "
 "(optional), please specify how to connect to your mailbox."
 msgstr ""
-"Si quieres comunicarte con tus contactos de tu correo usando este servicio "
-"(opcional), por favor, especifica cómo conectar con tu buzón."
+"Si vols comunicar-te amb els teus contactes de correu emprant aquest servei "
+"(opcional), si us plau, especifica cóm connectar amb la teva bustia."
 
 #: ../../mod/settings.php:550
 msgid "Last successful email check:"
-msgstr "Última comprobación del correo con éxito:"
+msgstr "Última comprobació del correu amb éxit:"
 
 #: ../../mod/settings.php:551
 msgid "Email access is disabled on this site."
-msgstr "El acceso por correo está deshabilitado en esta web."
+msgstr "L'accés per correu està deshabilitat en aquesta web."
 
 #: ../../mod/settings.php:552
 msgid "IMAP server name:"
-msgstr "Nombre del servidor IMAP:"
+msgstr "Nom del servidor IMAP:"
 
 #: ../../mod/settings.php:553
 msgid "IMAP port:"
-msgstr "Puerto IMAP:"
+msgstr "Port IMAP:"
 
 #: ../../mod/settings.php:554
 msgid "Security:"
-msgstr "Seguridad:"
+msgstr "Seguretat:"
 
 #: ../../mod/settings.php:554
 msgid "None"
-msgstr "Ninguna"
+msgstr "Cap"
 
 #: ../../mod/settings.php:555
 msgid "Email login name:"
-msgstr "Nombre de usuario:"
+msgstr "Nom d'usuari:"
 
 #: ../../mod/settings.php:556
 msgid "Email password:"
-msgstr "Contraseña:"
+msgstr "Contrasenya:"
 
 #: ../../mod/settings.php:557
 msgid "Reply-to address:"
-msgstr "Dirección de respuesta:"
+msgstr "Adreça de resposta:"
 
 #: ../../mod/settings.php:558
 msgid "Send public posts to all email contacts:"
-msgstr "Enviar publicaciones públicas a todos los contactos de correo:"
+msgstr "Enviar publicacions públiques a tots els contactes de correu:"
 
 #: ../../mod/settings.php:596 ../../mod/admin.php:126 ../../mod/admin.php:443
 msgid "Normal Account"
-msgstr "Cuenta normal"
+msgstr "Compte normal"
 
 #: ../../mod/settings.php:597
 msgid "This account is a normal personal profile"
-msgstr "Esta cuenta es el perfil de una persona normal"
+msgstr "Aquest compte es el perfil de una persona normal"
 
 #: ../../mod/settings.php:600 ../../mod/admin.php:127 ../../mod/admin.php:444
 msgid "Soapbox Account"
-msgstr "Cuenta tribuna"
+msgstr "Compte tribuna"
 
 #: ../../mod/settings.php:601
 msgid "Automatically approve all connection/friend requests as read-only fans"
 msgstr ""
-"Aceptar automáticamente todas las peticiones de conexión/amistad como "
-"seguidores de solo-lectura"
+"Acceptar automàticament totes les peticions de connexió/amistat com a "
+"seguidors de només-lectura"
 
 #: ../../mod/settings.php:604 ../../mod/admin.php:128 ../../mod/admin.php:445
 msgid "Community/Celebrity Account"
-msgstr "Cuenta de Sociedad/Celebridad"
+msgstr "Compte de Societat/Celebritat"
 
 #: ../../mod/settings.php:605
 msgid ""
